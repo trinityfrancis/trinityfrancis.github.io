@@ -1,3 +1,9 @@
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 # Overview
 Here is a short pargraph about me! I’m an honor student in information technology.
 I’ve always been a hard worker and team player. I have a strong work ethic and commitment to my tasks. 
